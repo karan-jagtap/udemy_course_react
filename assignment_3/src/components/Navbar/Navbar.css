@@ -1,0 +1,14 @@
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  column-gap: 2rem;
+}
+
+li a {
+  text-decoration: none;
+}
+
+.active {
+  color: red;
+}
